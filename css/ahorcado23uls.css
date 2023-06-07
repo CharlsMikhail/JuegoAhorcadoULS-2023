@@ -1,5 +1,25 @@
 h1 {
     color: red;
+    font-size: 30px;
+    font-family: "Times New Roman", serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: purple;
     font-size: 24px;
     font-family: "Times New Roman", serif;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+h5 {
+    text-align: center;
 }
