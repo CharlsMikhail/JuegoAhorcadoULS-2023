@@ -1,4 +1,6 @@
-var words = {
+
+
+/*var words = {
     // creando arraysw
     "tema1": ["", "","],
     "tema2": [" ", " ", " "]
@@ -38,6 +40,8 @@ function getRandomWord(theme) {
         return;
     }
 
+ 
+
 
   
   playerContainer.classList.add('hidden');
@@ -56,5 +60,39 @@ function getRandomWord(theme) {
     
      var selectedTheme
   }
+*/
 
+const  fs = require('fs'),
+readline = require('readline');
 
+var reader = readline.createInterface({
+input: fs.createReadStream('ahorcado23uls.txt')
+});
+
+reader.on('line', function (line) {
+console.log(line);
+});
+
+const fs = require('fs');
+function leerElementos(preguntas){
+    fs.readFile(Pregunstas, 'utf8', (error, datos) => {
+        if (error) {
+          console.error('Error al leer el archivo:', error);
+          return;
+        }
+    
+        
+        const lineas = datos.split('\n');
+    
+        lineas.forEach((linea, indice) => {
+          const elemento = linea.trim(); 
+    
+          
+          console.log(`Elemento ${indice + 1}: ${elemento}`);
+        });
+      });
+    }
+
+}   
+const preguntas=/workspaces/JuegoAhorcadoULS-2023/preguntas/ahorcado23uls.txt;
+leerElementos=(preguntas);
