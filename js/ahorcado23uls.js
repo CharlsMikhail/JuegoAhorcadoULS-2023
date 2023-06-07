@@ -22,4 +22,23 @@ var resultContainer = document.getElementById('result-container');
 var resultMessage = document.getElementById('result');
 
 
+function getRandomWord(theme) {
+    var wordList = words[theme];
+    var randomIndex = Math.floor(Math.random() * wordList.length);
+    return wordList[randomIndex];
+
+  }
+
+  function startGame(){
+    playerName = playerInput.value;
+    if(playerName==' '){
+        alert("INGRESE EL NOMBRE DEL JUGADOR ");
+        return;
+    }
+
+  }
+  
+
+
+
 
