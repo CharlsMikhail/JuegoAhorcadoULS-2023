@@ -6,11 +6,11 @@
 *pedir opiniones a los chicos para poder hacerles participar en la exposición.*
 
 ### Bien chicos, pero ¿Alguno sabe como se representa toda esta información ya sea textos, o procesar las instrucciones a una computadora?
-### Para esto les voy a presentar a 2 números los cuales son muy importantes y que todos conocemos
+### Para esto les voy a presentar a 2 números los cuales son muy importantes y que todos conocemos:
 
 *Se planea llevar 2 polos, uno con el número 1 y la otra con el número o*
 
-### Este es el 0 y el 1, estos 2 números conforman el sistema numérico binario 
+### Este es el 0 y el 1, estos 2 números conforman el sistema numérico binario. 
 
 ### Hoy en día, los ordenadores usan dígitos para representar información por eso se les llama sistemas digitales. La manera más sencilla y común de representar dígitos es el sistema numérico binario, con solo dos dígitos (usualmente escritos como 0 y 1). Se le llama binario porque sólo se usan dos dígitos diferentes, o dos estados.
 
@@ -19,6 +19,8 @@
 ### En cambio el sistema decimal , el que todos conocemos, también se puede representar en sistema binario veamos la siguiente tabla de como la computadora entiende los numeros en sistema decimal:
 
 ![Texto alternativo](https://www.areatecnologia.com/informatica/imagenes/numeros-binarios.jpg)
+
+### Como se pueden dar cuenta en la tabla se muestran algunos valores los cuales traducimos los valores del sistema numérico decimal al sistema numérico binario.
 
 
 
