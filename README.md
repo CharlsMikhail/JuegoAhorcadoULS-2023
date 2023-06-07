@@ -1,5 +1,5 @@
 # JuegoAhorcadoULS-2023
-Curso LPIII
+Curso III
 ## Descripción
 - Este juego "el ahorcado" fué realizado por los alumnos del curso de Lenguajes de Programación III de la Escuela Profesional de Ingeniería de Software de la Universidad La Salle.
 
