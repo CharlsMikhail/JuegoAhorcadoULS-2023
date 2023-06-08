@@ -1,5 +1,5 @@
-# Tema 2: Estructuras de datos-2023 :grinning: 
-Curso Lenguaje de programación III
+# Tema 2: Estructuras de datos :grinning: 
+Curso: Lenguaje de programación III
 # Descripción:
   - El recorrido de árboles binarios es una técnica utilizada en programación y estructura de datos para visitar y procesar  los nodos de un árbol binario de manera sistemática. Consiste en recorrer todos los nodos del árbol siguiendo un orden  específico, lo cual puede proporcionar información importante y permitir la realización de diversas operaciones.
   - Existen tres tipos principales de recorrido de árboles binarios: preorder (preorden), inorder (inorden) y postorder (postorden). Cada uno de ellos define un orden distinto en el que se visitan los nodos del árbol.
@@ -35,6 +35,9 @@ Dado que los estudiantes no tienen conocimientos previos en programación, es im
 
 Al adoptar un enfoque gradual y proporcionar ejemplos concretos, los estudiantes podrán comprender los conceptos de recorrido de árboles binarios y su importancia en la programación. Esto sentará las bases para su aprendizaje futuro en el campo de la estructura de datos y la programación.
 
+![tiposdenodos](https://github.com/CharlsMikhail/JuegoAhorcadoULS-2023/assets/130795690/28a9bf4a-f249-45ab-87fc-3abe8fa3cc9c)
 
+![Imagen1](https://github.com/CharlsMikhail/JuegoAhorcadoULS-2023/assets/130795690/63988cab-7f7c-4f96-936f-5b8ed0aec88e)
+![Imagen2](https://github.com/CharlsMikhail/JuegoAhorcadoULS-2023/assets/130795690/f33f7b11-fa60-4d3c-b8f0-29809ccc309a)
+![Imagen3](https://github.com/CharlsMikhail/JuegoAhorcadoULS-2023/assets/130795690/cbc08262-683e-4199-91ac-f2da6312a9b3)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
