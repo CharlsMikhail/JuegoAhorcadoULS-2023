@@ -55,17 +55,8 @@ button:hover:after {
 
 h1 {
     width: 100%;
-    color: red;
+    color: rgb(94, 94, 94);
     font-size: 30px;
-    font-family: "Times New Roman", serif;
-    text-align: center;
-}
-
-h2 {
-    width: 100%;
-    text-align: center;
-    color: purple;
-    font-size: 24px;
     font-family: "Times New Roman", serif;
     text-align: center;
 }
@@ -74,4 +65,5 @@ footer {
     display: flex;
     justify-content: space-around;
     position: relative;
+    color: white
 }
