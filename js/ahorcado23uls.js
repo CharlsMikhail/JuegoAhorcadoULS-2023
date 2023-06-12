@@ -47,6 +47,35 @@ document.addEventListener('DOMContentLoadedD',()=>{
   }
   wordDiplay.textContent=palabraOculta;
   guessButton.addEventListener('click',()=>{
-    const letra = guessInput
+    const letra = guessInput.value.toLowerCase();
+
+    if (letra.length !==1 || !(/[a-z]/).test(palabra)){
+      alert('Ingrese La respuesta.');
+      return;
+    }
+
+    if (palabraOculta.includes(palabra)){
+      alert('Ya has adivinado la palabra');
+      return;
+    }
+    let acierto = false;
+    let nuevaPalabraOculta =  ' ';
+
+     for (let i=0;i<Pregunta.length; i++){
+      if (pregunta[i].toLowerCase()===palabra){
+        nuevaPalabraOculta+=Pregunta[i];
+        acierto = true;
+      }else{
+        nuevaPalabraOculta +=palabraOculta[i];
+      }
+      if (!acierto){
+        guessesDisplay.textContent +=palabra +' ';
+      }
+      palabraOculta= nuevaPalabraOculta;
+      wordDiplay.textContent = palabraOculta;
+      guessInput.value = ' ';
+      g
+     }
+
   })
 })
