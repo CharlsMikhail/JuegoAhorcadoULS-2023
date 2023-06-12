@@ -1,21 +1,25 @@
-const  fs = require('fs'),;
+const  fs = require('fs');
 const { clearInterval } = require('timers');
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
 //Cargar los temas 
-const cargarTemas = () => {
-  const temas = fs.readFileSync('temas.txt', 'utf8').split('\n');
+function cargarTemas() {
+  const temas = fs.readFileSync('ahorcado23uls.txt', 'utf8').split('\n');
   return temas.filter(tema => tema.trim() !== '');
-};
+}
 
 //Guardar la puntuacion 
 const guardarPuntuacion=(nombre, puntuacion)=>{
   const puntuacionString = '${nombre}: ${puntuacion}\n';
-  fs.appendFileSync('puntuaciones.txt'puntuacionString.'utf8')
+  fs.appendFileSync('puntuaciones.txt', puntuacionString,'utf8')
 
 };
 
 //Pregunta aleatoria
 const obtenerPreguntas = tema => {
-  const preguntas fs.readFileSync('${Tema}.txt'. 'utf8').split(\n);
+  const preguntas fs.readFileSync('${Tema}.txt', 'utf8').split(\n);
   const preguntaAleatoria = preguntas [Math.floor(Math.random()*preguntas.length)];
   return preguntaAleatoria;
 };
@@ -63,7 +67,7 @@ document.addEventListener('DOMContentLoadedD',()=>{
     let nuevaPalabraOculta =  ' ';
 
      for (let i=0;i<Pregunta.length; i++){
-      if (pregunta[i].toLowerCase()===palabra){
+      if (Pregunta[i].toLowerCase()===palabra){
         nuevaPalabraOculta+=Pregunta[i];
         acierto = true;
       }else{
