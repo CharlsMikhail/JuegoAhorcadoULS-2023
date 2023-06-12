@@ -1,4 +1,5 @@
-const  fs = require('fs'),
+const  fs = require('fs'),;
+const { clearInterval } = require('timers');
 //Cargar los temas 
 const cargarTemas = () => {
   const temas = fs.readFileSync('temas.txt', 'utf8').split('\n');
@@ -8,13 +9,13 @@ const cargarTemas = () => {
 //Guardar la puntuacion 
 const guardarPuntuacion=(nombre, puntuacion)=>{
   const puntuacionString = '${nombre}: ${puntuacion}\n';
-  fs.appendFileSync('puntuaciones.txt'puntuacionString,'utf8')
+  fs.appendFileSync('puntuaciones.txt'puntuacionString.'utf8')
 
 };
 
 //Pregunta aleatoria
 const obtenerPreguntas = tema => {
-  const preguntas fs.readFileSync('${Tema}.txt', 'utf8').split(\n);
+  const preguntas fs.readFileSync('${Tema}.txt'. 'utf8').split(\n);
   const preguntaAleatoria = preguntas [Math.floor(Math.random()*preguntas.length)];
   return preguntaAleatoria;
 };
@@ -68,14 +69,34 @@ document.addEventListener('DOMContentLoadedD',()=>{
       }else{
         nuevaPalabraOculta +=palabraOculta[i];
       }
+    ]
       if (!acierto){
         guessesDisplay.textContent +=palabra +' ';
       }
       palabraOculta= nuevaPalabraOculta;
       wordDiplay.textContent = palabraOculta;
       guessInput.value = ' ';
-      g
-     }
 
-  })
-})
+      if (!palabraOculta.includes('_')){
+        puntuacion++;
+        alert('Felicitaciones! Has adivinado la palabra. ');
+        guardarPuntuacion('Usuario',puntuacion);
+      
+      }
+  });
+  let tiempoRestante = 60;
+  const timerDisplay = document.createElement('div');
+  timerDisplay.textContent= 'Tiempo restante:  ' +tiempoRestante;
+  document.body.appendChild(timerDisplay);
+
+  const timer = setInterval(()=>{
+    tiempoRestante--;
+    timerDisplay.textContent = 'Tiempo restante: '+ tiempoRestante;
+
+    if (tiempoRestante ===o){
+      clearInterval(timer);
+
+    }
+  }, 1000);
+  
+});
