@@ -20,6 +20,10 @@
 
 ![Texto alternativo](https://www.areatecnologia.com/informatica/imagenes/numeros-binarios.jpg)
 
+#### No solo los numeros binarios pueden representar el sistema decimal, también pueden representar el alfabeto que todos conocemos:
+
+![Texto alternativo](https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/codigo_binario_2.jpg)
+
 #### Como se pueden dar cuenta en la tabla se muestran algunos valores los cuales traducimos los valores del sistema numérico decimal al sistema numérico binario.
 #### Ahora hablemos sobre cómo se utilizan los números binarios en los videojuegos. 
 #### En los videojuegos, los números binarios son muy importantes porque permiten a las computadoras procesar información de manera rápida y eficiente. Aquí hay algunas formas en las que se utilizan los números binarios en los videojuegos:
