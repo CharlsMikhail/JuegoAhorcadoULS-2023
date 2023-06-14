@@ -1,7 +1,7 @@
 # Números Binarios:
 *Luego de presentar el juego del “Ahorcado” se procederá a presentar unas diapositivas  en las cuales se dará un pequeño concepto de los números binarios, Luego se hará una pequeña dinámica de explicación de los “Bits”.*
 
-#### Chicos, ¿a quienes les gustan los videojuegos o la tecnología?, es cierto que la tecnología y las computadoras nos ayudan a hacer muchas cosas, ¿quién puede darme un ejemplo de lo que hace en sus computadores?
+##### Chicos, ¿a quienes les gustan los videojuegos o la tecnología?, es cierto que la tecnología y las computadoras nos ayudan a hacer muchas cosas, ¿quién puede darme un ejemplo de lo que hace en sus computadores?
 
 *pedir opiniones a los chicos para poder hacerles participar en la exposición.*
 
