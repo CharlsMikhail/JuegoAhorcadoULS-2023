@@ -21,6 +21,20 @@
 ![Texto alternativo](https://www.areatecnologia.com/informatica/imagenes/numeros-binarios.jpg)
 
 ### Como se pueden dar cuenta en la tabla se muestran algunos valores los cuales traducimos los valores del sistema numérico decimal al sistema numérico binario.
+### Ahora hablemos sobre cómo se utilizan los números binarios en los videojuegos. 
+### En los videojuegos, los números binarios son muy importantes porque permiten a las computadoras procesar información de manera rápida y eficiente. Aquí hay algunas formas en las que se utilizan los números binarios en los videojuegos:
+### Representación de gráficos:
+Los gráficos en los videojuegos se crean utilizando píxeles, que son los puntos más pequeños en una pantalla. Cada píxel puede estar encendido (representado por un uno) o apagado (representado por un cero). Utilizando los números binarios, las computadoras pueden representar y almacenar imágenes y animaciones en los videojuegos.
+### Puntuaciones y niveles: 
+En muchos videojuegos, tienes una puntuación que indica tu progreso y éxito en el juego. Estas puntuaciones se almacenan en la memoria de la computadora utilizando números binarios. Por ejemplo, si obtienes 100 puntos en un juego, la computadora lo guarda como una secuencia de unos y ceros que representa el número 100 en binario.
+### Almacenamiento de datos: 
+Los números binarios también se utilizan para almacenar información sobre los personajes, objetos y niveles en los videojuegos. Cada elemento del juego puede tener una representación binaria única que la computadora puede leer y utilizar para mostrar y controlar lo que sucede en el juego.
+### Lógica y decisiones: 
+Los números binarios también se utilizan para tomar decisiones en los videojuegos. Las computadoras pueden realizar operaciones lógicas utilizando números binarios, lo que les permite determinar qué acciones deben realizar los personajes del juego en diferentes situaciones.
+### Generación de mundos y escenarios: 
+En los videojuegos, a menudo se generan mundos y escenarios de manera procedural, lo que significa que se crean automáticamente utilizando algoritmos. Estos algoritmos utilizan números binarios para generar terrenos, estructuras y características del juego de manera aleatoria pero controlada.
+
+Como pueden ver, los números binarios son fundamentales en los videojuegos y están presentes en casi todos los aspectos del diseño y funcionamiento de un juego. Espero que les haya gustado esta exposición y que hayan aprendido algo nuevo sobre cómo se utilizan los números binarios en los videojuegos. ¡Diviértanse jugando!
 
 
 
