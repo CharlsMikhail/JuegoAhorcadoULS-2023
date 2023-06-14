@@ -22,7 +22,7 @@
 
 #### No solo los numeros binarios pueden representar el sistema decimal, también pueden representar el alfabeto que todos conocemos:
 
-![Texto alternativo](https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/codigo_binario_2.jpg)
+![Texto alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.univision.com%2Fexplora%2Faprende-a-escribir-tu-nombre-en-codigo-binario&psig=AOvVaw3YWy-E7id73BUkqBUttr6j&ust=1686856248672000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjo9bC7w_8CFQAAAAAdAAAAABAR)
 
 #### Como se pueden dar cuenta en la tabla se muestran algunos valores los cuales traducimos los valores del sistema numérico decimal al sistema numérico binario.
 #### Ahora hablemos sobre cómo se utilizan los números binarios en los videojuegos. 
