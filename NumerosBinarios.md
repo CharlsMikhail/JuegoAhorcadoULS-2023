@@ -40,6 +40,6 @@ En los videojuegos, a menudo se generan mundos y escenarios de manera procedural
 
 Como pueden ver, los números binarios son fundamentales en los videojuegos y están presentes en casi todos los aspectos del diseño y funcionamiento de un juego. Espero que les haya gustado esta exposición y que hayan aprendido algo nuevo sobre cómo se utilizan los números binarios en los videojuegos. ¡Diviértanse jugando!
 
-
+Las diapositivas se encuntran en el siguiente link: https://www.canva.com/design/DAFl0q52W3o/gl328uPDCmg2XHWBn1EqlA/edit?utm_content=DAFl0q52W3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
