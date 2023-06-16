@@ -24,7 +24,6 @@
 
 ![Texto alternativo](https://www.mheducation.es/download-resource/blog/22-hablemos-sencillo-hablemos-binario-600-2.png)
 
-#### Como se pueden dar cuenta en la tabla se muestran algunos valores los cuales traducimos los valores del sistema numérico decimal al sistema numérico binario.
 #### Ahora hablemos sobre cómo se utilizan los números binarios en los videojuegos. 
 #### En los videojuegos, los números binarios son muy importantes porque permiten a las computadoras procesar información de manera rápida y eficiente. Aquí hay algunas formas en las que se utilizan los números binarios en los videojuegos:
 ### Representación de gráficos:
