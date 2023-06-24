@@ -1,0 +1,13 @@
+¿Qué tanto sabes de Geografía?
+¿Cuál es el país más grande del mundo en términos de superficie?|RUSIA
+¿Cuál es el océano más grande del mundo?|OCÉANO PACÍFICO
+¿Cuál es el río más largo del mundo?|RÍO AMAZONAS
+¿Cuál es la montaña más alta del mundo?|MONTE EVEREST
+¿Cuál es el país más poblado del mundo?|CHINA
+¿Cuál es el continente más pequeño del mundo?|OCEANÍA
+¿Cuál es el país con forma de bota en Europa?|ITALIA
+¿Cuál es el lago ubicado en la región de Puno, en el sur de Perú?|EL LAGO TITICACA
+¿Cuál es el cañón ubicado en la región de Arequipa, en el sur de Perú, considerado uno de los más profundos del mundo?|EL CAÑÓN DEL COLCA
+¿Cuál es el país más grande de América del Sur en términos de superficie?|BRASIL
+
+By: Carlos Mamani

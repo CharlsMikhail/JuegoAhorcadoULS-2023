@@ -1,0 +1,13 @@
+¿Qué tanto sabes de literatura?
+¿Quién es el autor de Don Quijote de la Mancha?|MIGUEL DE CERVANTES
+¿Quién es el autor de Romeo y Julieta?|WILLIAM SHAKESPEARE
+¿Quién es el autor de Cien años de soledad?|GABRIEL GARCIA MARQUEZ
+¿Quién es el autor de Harry Potter?|JK ROWLING
+¿Quién es el autor de La Odisea?|HOMERO
+¿Quién es el autor de Frankenstein?|MARY SHELLEY
+¿Quién es el autor de Los tres mosqueteros?|ALEXANDRE DUMAS
+¿Quién es el autor de La Divina comedia?|DANTE
+¿Quién es el autor de Tradiciones peruanas?|RICARDO PALMA 
+¿Quién es el autor de El padrino?|MARIO PUZO
+
+By: Diego Humpiri
