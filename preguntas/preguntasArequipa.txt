@@ -1,0 +1,15 @@
+¿Qué tan Arequipeño eres?
+¿Cual es la moneda de Arequipa?|Characato Real
+¿Donde nacio en Juan Pablo Vizcardo y Guzman?|Pampacolca 
+¿Cual es el nombre de la danza tradicional del Colca?|Wititi
+¿Con que nombre se les conoce a los restaurantes antaños de Arequipa?|Picanterias
+¿La obra mas conocida del escritor Mario Vargas Llosa?|La ciudad y los Perros
+¿Cual es el genero musico-literario Originario de Arequipa?|Yaravi 
+¿Donde fue hallada la momia Juanita?|Monte de Ampato
+¿En que distrito de la provincia de Castilla, esta ubicada el valle de los volcanes?|Andagua
+¿Cual es el nombre del antagonista de la obra literaria "La ciudad y los perros"?|Ricardo Arana
+¿Que tipo de mineral produce las mina de Cerro Verde?|Cobre
+¿Lugar mas visitado en la ciudad de arequipa?|Mercado San Camilo
+¿Tradicion donde no se somete a los animales a la tortura ni al maltrato?|Pelea Toros
+
+By: Armando Talavera
